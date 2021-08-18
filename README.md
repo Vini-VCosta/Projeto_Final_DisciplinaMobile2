@@ -23,18 +23,23 @@ Pontos negativos =
 	Pode ficar confuso se a pessoa não possuir muito conhecimento do assunto
 
 *AppMap:
+
 ![AppMap](https://user-images.githubusercontent.com/66764951/129284303-53887b2d-1822-4c12-9b18-f5d1e46d59a1.jpeg)
 
 *Fluxograma:
+
 ![Fluxograma](https://user-images.githubusercontent.com/66764951/129284318-07bab127-c650-4fde-8195-ba37997f61cd.jpeg)
 
 *Wireframe:
+
 ![Wireframe](https://user-images.githubusercontent.com/66764951/129284338-dd797e5d-fbec-4aec-8488-dd3432bf2d87.jpeg)
 
 *Prototipagem:
+
 ![Prototipagem](https://user-images.githubusercontent.com/66764951/129284349-cb260b1a-75d6-4654-b403-0771a767a45d.jpeg)
 
 *Paleta de cores:
+
 ![Paleta de cores](https://user-images.githubusercontent.com/66764951/129284371-8309250f-ffdb-45f3-8e00-012894a5211c.jpeg)
 
 *Tipografia e Taxonomia:
